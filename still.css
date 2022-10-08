@@ -78,7 +78,7 @@ section{
 }
 nav{
     float: left;
-    width: 100%;
+    width: 25%;
     margin-top: 10px;
     height: auto;
 }
@@ -115,7 +115,7 @@ i{
 main{
     float: left;
     height: auto;
-    width: 80½;
+    width: 90%;
     padding: 10px;
 }
 .icerik{
@@ -142,7 +142,7 @@ h5{
 .iceriktext{
     margin: 10px;
     color: dimgray;
-    width: 100½;
+    width: 100%;
 
 }
 .btndevam:link{
@@ -160,7 +160,7 @@ h5{
     opacity: 0.8;
 }
 footer{
-    width: 100½;
+    width: 100%;
     height: 75px;
     background-color: black;
     color: white;
@@ -194,7 +194,7 @@ h3{
     border-radius: 10px;
 }
 .referans{
-    width: 31½;
+    width: 31%;
     height: 300px;
     background-color: white;
     float: left;
@@ -202,7 +202,7 @@ h3{
     border-radius: 5px;
 }
 .refresim{
-    width: 100½;
+    width: 100%;
     height: 220px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -230,7 +230,7 @@ h3{
     
 }
 .galresim{
-    width: 22½;
+    width: 22%;
     height: 165px;
     border-radius: 5px;
     margin: 5px;
@@ -246,7 +246,7 @@ iframe{
 border-radius: 25px;
 }
 .section1{
-    width: 98½;
+    width: 100%;
     height: auto;
     margin: auto;
     margin-top: 10px;
@@ -254,7 +254,7 @@ border-radius: 25px;
     padding: 10px;
 }
 .form{
-    width: 49½;
+    width: 49%;
     height: 380px;
     float: left;
     border: 1px solid #d8d8d8;
@@ -262,12 +262,12 @@ border-radius: 25px;
     margin-right: 10px;
 }
 .col25{
-    width: 25½;
+    width: 25%;
     float: left;
     margin-top: 6px;
 }
 .col75{
-    width: 75½;
+    width: 75%;
     float: left;
     margin-top: 6px;
 }
@@ -276,7 +276,7 @@ label{
     display: inline-block;
 }
 input[type=text], textarea{
-    width: 100½;
+    width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
