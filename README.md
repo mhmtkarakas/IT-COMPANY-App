@@ -3,7 +3,7 @@
 
 <p>Html Ve Css ile birlikte yapılan bir projedir. Sayfalar arasında geçiş yapılabilmekredir.</p>
 
-<img src="./ekranresmi.png">
-<img src="./ekranresmi2.png">
-<img src="./ekranresmi3.png">
-<img src="./ekranresmi4.png">
+<img src="./img/ekranresmi.png">
+<img src="./img/ekranresmi2.png">
+<img src="./img/ekranresmi3.png">
+<img src="./img/ekranresmi4.png">
